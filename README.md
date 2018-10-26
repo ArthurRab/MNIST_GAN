@@ -1,5 +1,5 @@
 # MNIST_GAN
-MNIST GAN experiment with an interactive gui
+MNIST GAN experiment with an interactive GUI
 
 Basic GAN, uses a 20-dim Standard Normal vector as input and was trained to reproduce the distribution of threes from the MNIST dataset.
 
