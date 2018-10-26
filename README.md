@@ -5,6 +5,8 @@ Basic GAN, uses a 20-dim Standard Normal vector as input and was trained to repr
 
 Created by: Arthur Rabinovich and Saminul Haque
 
+png.py is from https://github.com/drj11/pypng/blob/master/code/png.py
+
 Dependencies: 
 * python 3.x
 * Tensorflow
