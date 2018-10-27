@@ -17,6 +17,6 @@ Dependencies:
 
 Animated Demo:
 
-Slider values represent the input vector to the GAN
+Slider values represent the input vector to the trained generator from the GAN
 
 ![DEMO](https://media.giphy.com/media/ZxyvljGYt8ZpByXFZg/giphy.gif)
